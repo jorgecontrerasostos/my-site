@@ -1,0 +1,15 @@
+.footer {
+  border-width: 1px;
+  border-style: dashed;
+  border-color: black;
+}
+.elements-container {
+  background-color: #f6f6f6;
+}
+
+li {
+  color: #163172;
+}
+li:hover {
+  color: #1e56a0;
+}
